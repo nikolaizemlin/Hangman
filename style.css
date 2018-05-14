@@ -8,7 +8,9 @@ body {
   text-align: center;
   font-size: 12px;
 }
-
+img {
+  z-index: -1;
+}
 .wrappper {
   width: 100%;
   margin: 0 auto;
